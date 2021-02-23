@@ -25,7 +25,7 @@ Hierfür wird das PHP-Skript im build-Ordner verwendet.
 
 ## Haftungsausschluss
 
-Die Daten in diesem Repository sind nicht von einer qualifizierten Stelle verifiziert. Auf die Richtigkeit und Vollständigkeit der Daten wird keine Gewähr gegeben.
+Die Daten in diesem Repository sind nicht von einer qualifizierten Stelle verifiziert. Auf die Richtigkeit und Vollständigkeit der Daten wird keine Gewähr geleistet.
 
 ## Lizenz
 
