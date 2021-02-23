@@ -22,7 +22,7 @@ Es steht 1 Variante bereit:
 - is_causing_allergies: trinary Sind üblicherweise nicht im Umlauf oder nur in Non-Food enthalten
 - is_animal_derived: trinary Ist der Stoff von tierischem Ursprung? (> 0 = nicht vegan)
 
-* trinary: 0 = Nein; 1 = Ja; 2 = Möglicherweise
+=> trinary: 0 = Nein; 1 = Ja; 2 = Möglicherweise
 
 ## Am Projekt mitwirken
 
