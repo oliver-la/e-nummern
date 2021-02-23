@@ -15,14 +15,14 @@ Es steht 1 Variante bereit:
 
 ## Datenstruktur
 
-- number: string E-Nummer ohne "E"-Präfix
-- name: string Bezeichnung des Stoffs
-- classification: array:string Kategorisierung des Stoffes, es können mehrere zugewiesen werden.
-- is_azo_dye: trinary Handelt es sich um einen Azofarbstoff?
-- is_causing_allergies: trinary Sind üblicherweise nicht im Umlauf oder nur in Non-Food enthalten
-- is_animal_derived: trinary Ist der Stoff von tierischem Ursprung? (> 0 = nicht vegan)
+- **number: _string_** E-Nummer ohne "E"-Präfix
+- **name: _string_** Bezeichnung des Stoffs
+- **classification: _array:string_** Kategorisierung des Stoffes, es können mehrere zugewiesen werden.
+- **is_azo_dye: _trinary_** Handelt es sich um einen Azofarbstoff?
+- **is_causing_allergies: _trinary_** Sind üblicherweise nicht im Umlauf oder nur in Non-Food enthalten
+- **is_animal_derived: _trinary_** Ist der Stoff von tierischem Ursprung? (> 0 = nicht vegan)
 
-=> trinary: 0 = Nein; 1 = Ja; 2 = Möglicherweise
+=> _trinary_: 0 = Nein; 1 = Ja; 2 = Möglicherweise
 
 ## Am Projekt mitwirken
 
