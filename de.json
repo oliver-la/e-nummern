@@ -1,0 +1,3150 @@
+[
+    {
+        "number": "E 100",
+        "name": "Kurkumin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 101",
+        "name": "Riboflavine",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 102",
+        "name": "Tartrazin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 1,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 104",
+        "name": "Chinolingelb",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 1,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 110",
+        "name": "Gelborange S",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 1,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 120",
+        "name": "Echtes Karmin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 1
+    },
+    {
+        "number": "E 122",
+        "name": "Azorubin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 1,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 123",
+        "name": "Amaranth",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 124",
+        "name": "Cochenillerot A",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 1,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 127",
+        "name": "Erythrosin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 129",
+        "name": "Allurarot AC",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 1,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 131",
+        "name": "Patentblau V",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 132",
+        "name": "Indigotin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 133",
+        "name": "Brillantblau FCF",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 140",
+        "name": "Chlorophylle und Chlorophylline",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 141",
+        "name": "Kupferkomplexe der Chlorophylle",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 142",
+        "name": "Gr\u00fcn S",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 151",
+        "name": "Brillantschwarz BN",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 153",
+        "name": "Pflanzenkohle",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 155",
+        "name": "Braun HT",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 161b",
+        "name": "Lutein",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 162",
+        "name": "Beetenrot, Betanin",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 163",
+        "name": "Anthocyane",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 170",
+        "name": "Calciumcarbonate",
+        "classification": [
+            "Farbstoff",
+            "S\u00e4ureregulator",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 171",
+        "name": "Titandioxid",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 172",
+        "name": "Eisenoxide und -hydroxide",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 173",
+        "name": "Aluminium",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 174",
+        "name": "Silber",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 175",
+        "name": "Gold",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 180",
+        "name": "Litholrubin BK",
+        "classification": [
+            "Farbstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 200",
+        "name": "Sorbins\u00e4ure",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 202",
+        "name": "Kaliumsorbat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 203",
+        "name": "Calciumsorbat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 210",
+        "name": "Benzoes\u00e4ure",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 211",
+        "name": "Natriumbenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 212",
+        "name": "Kaliumbenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 213",
+        "name": "Calciumbenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 214",
+        "name": "Ethyl-p-hydroxybenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 215",
+        "name": "Natriumethyl-p-hydroxybenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 218",
+        "name": "Methyl-p-hydroxybenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 219",
+        "name": "Natriummethyl-p-hydroxybenzoat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 220",
+        "name": "Schwefeldioxid",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 221",
+        "name": "Natriumsulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 222",
+        "name": "Natriumhydrogensulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 223",
+        "name": "Natriummetabisulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 224",
+        "name": "Kaliummetabisulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 226",
+        "name": "Calciumsulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 227",
+        "name": "Calciumhydrogensulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 228",
+        "name": "Kaliumhydrogensulfit",
+        "classification": [
+            "Konservierungsstoff",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 234",
+        "name": "Nisin",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 235",
+        "name": "Natamycin",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 239",
+        "name": "Hexamethylentetramin",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 242",
+        "name": "Dimethyldicarbonat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 249",
+        "name": "Kaliumnitrit",
+        "classification": [
+            "Konservierungsstoff",
+            "P\u00f6kelsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 250",
+        "name": "Natriumnitrit",
+        "classification": [
+            "Konservierungsstoff",
+            "P\u00f6kelsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 251",
+        "name": "Natriumnitrat",
+        "classification": [
+            "Konservierungsstoff",
+            "P\u00f6kelsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 252",
+        "name": "Kaliumnitrat",
+        "classification": [
+            "Konservierungsstoff",
+            "P\u00f6kelsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 260",
+        "name": "Essigs\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 282",
+        "name": "Calciumpropionat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 283",
+        "name": "Kaliumpropionat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 284",
+        "name": "Bors\u00e4ure",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 285",
+        "name": "Natriumtetraborat (Borax)",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 290",
+        "name": "Kohlendioxid",
+        "classification": [
+            "Packgas",
+            "Treibgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 296",
+        "name": "Apfels\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 297",
+        "name": "Fumars\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 300",
+        "name": "Ascorbins\u00e4ure",
+        "classification": [
+            "Antioxidationsmittel",
+            "Mehlbehandlungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 301",
+        "name": "Natriumascorbat",
+        "classification": [
+            "Antioxidationsmittel",
+            "Mehlbehandlungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 302",
+        "name": "Calciumascorbat",
+        "classification": [
+            "Antioxidationsmittel",
+            "Mehlbehandlungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 304",
+        "name": "Fetts\u00e4ureester der Ascorbins\u00e4ure",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 306",
+        "name": "Stark tocopherolhaltige Extrakte",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 307",
+        "name": "Alpha-Tocopherol",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 308",
+        "name": "Gamma-Tocopherol",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 309",
+        "name": "Delta-Tocopherol",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 310",
+        "name": "Propylgallat",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 311",
+        "name": "Octylgallat",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 312",
+        "name": "Dodecylgallat",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 315",
+        "name": "Isoascorbins\u00e4ure",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 316",
+        "name": "Natriumisoascorbat",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 319",
+        "name": "Terti\u00e4r-Butylhydrochinon",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 320",
+        "name": "Butylhydroxyanisol (BHA)",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 321",
+        "name": "Butylhydroxytolen (BHT)",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 322",
+        "name": "Lecithin",
+        "classification": [
+            "Emulgator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 325",
+        "name": "Natriumlactat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 326",
+        "name": "Kaliumlactat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 327",
+        "name": "Calciumlactat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 330",
+        "name": "Zitronens\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 331",
+        "name": "Natriumcitrate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 332",
+        "name": "Kaliumcitrate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 333",
+        "name": "Calciumcitrate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 334",
+        "name": "Weins\u00e4ure (L+)",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 335",
+        "name": "Natriumtartrate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 336",
+        "name": "Kaliumtartrate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 337",
+        "name": "Natrium-Kaliumtartrat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 338",
+        "name": "Phosphors\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 339",
+        "name": "Natriumphosphate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 340",
+        "name": "Kaliumhosphate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 341",
+        "name": "Calciumphosphate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 343",
+        "name": "Magnesiumphosphate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 350",
+        "name": "Natriummalate",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 351",
+        "name": "Kaliummalat",
+        "classification": [
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 352",
+        "name": "Calciummalate",
+        "classification": [
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 261",
+        "name": "Kaliumacetate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 262",
+        "name": "Natriumacetate",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 263",
+        "name": "Calciumacetat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 270",
+        "name": "Milchs\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 280",
+        "name": "Propions\u00e4ure",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 281",
+        "name": "Natriumpropionat",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 353",
+        "name": "Metaweins\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 355",
+        "name": "Adipins\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 356",
+        "name": "Natriumadipat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 357",
+        "name": "Kaliumadipat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 363",
+        "name": "Bernsteins\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 380",
+        "name": "Triammoniumcitrat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 385",
+        "name": "Calcium-Dinatrium-EDTA",
+        "classification": [
+            "Antioxidationsmittel",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 392",
+        "name": "Extrakte aus Rosmarin",
+        "classification": [
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 400",
+        "name": "Algins\u00e4ure",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 401",
+        "name": "Natriumalginat",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 402",
+        "name": "Kaliumalginat",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 403",
+        "name": "Ammoniumalginat",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 404",
+        "name": "Calciumalginat",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 405",
+        "name": "Propylenglycolalginat",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 406",
+        "name": "Agar-Agar",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 407",
+        "name": "Carrageen",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 407a",
+        "name": "Verarbeitete Eucheuma-Algen",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 410",
+        "name": "Johannisbrotkernmehl",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 412",
+        "name": "Guarkernmehl",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 413",
+        "name": "Traganth",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 414",
+        "name": "Gummi arabicum",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 415",
+        "name": "Xanthan",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 416",
+        "name": "Karayagummi",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 417",
+        "name": "Tarakernmehl",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 418",
+        "name": "Gellan",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 420",
+        "name": "Sorbit",
+        "classification": [
+            "S\u00fcssungsmittel",
+            "Feuchthaltemittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 421",
+        "name": "Mannit",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 422",
+        "name": "Glycerin",
+        "classification": [
+            "Feuchthaltemittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 425",
+        "name": "Konjak",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 426",
+        "name": "Sojabohnen-Polyose",
+        "classification": [
+            "Emulgator",
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 427",
+        "name": "Cassia-Gummi",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 431",
+        "name": "Polyoxyethylen(40)stearat",
+        "classification": [
+            "Emulgator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 432",
+        "name": "Polysorbat 20",
+        "classification": [
+            "Emulgator",
+            "Schaummittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 433",
+        "name": "Polysorbat 80",
+        "classification": [
+            "Emulgator",
+            "Schaummittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 434",
+        "name": "Polysorbat 40",
+        "classification": [
+            "Emulgator",
+            "Schaummittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 435",
+        "name": "Polysorbat 60",
+        "classification": [
+            "Emulgator",
+            "Schaummittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 436",
+        "name": "Polysorbat 65",
+        "classification": [
+            "Emulgator",
+            "Schaummittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 440",
+        "name": "Pektine",
+        "classification": [
+            "Gelier- und Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 442",
+        "name": "Ammoniumphosphatide",
+        "classification": [
+            "Stabilisator",
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 444",
+        "name": "Saccharoseacetatisobutyrat",
+        "classification": [
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 445",
+        "name": "Glycerinester aus Wurzelharz",
+        "classification": [
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 450",
+        "name": "Diphosphate",
+        "classification": [
+            "Stabilisator",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 354",
+        "name": "Calciumtartrat",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 451",
+        "name": "Triphosphate",
+        "classification": [
+            "Stabilisator",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 452",
+        "name": "Polyphosphate",
+        "classification": [
+            "Stabilisator",
+            "Schmelzsalz"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 459",
+        "name": "Beta-Cyclodextrin",
+        "classification": [
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 460",
+        "name": "Cellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 461",
+        "name": "Methylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 463",
+        "name": "Hydroxypropylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 462",
+        "name": "Ethylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 464",
+        "name": "Hydroxypropylmethylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 465",
+        "name": "Ethylmethylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 471",
+        "name": "Mono- und Diglyceride von Speisefetts\u00e4uren",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 473",
+        "name": "Zuckerester von Speisefetts\u00e4uren",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 474",
+        "name": "Zuckerglyceride",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 475",
+        "name": "Polyglycerinester von Speisefetts\u00e4uren",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 476",
+        "name": "Polyglycerin-Polyricinoleat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 477",
+        "name": "Propylenglycolester von Speisefetts\u00e4uren",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 479b",
+        "name": "Thermooxidiertes Soja\u00f6l mit Mono- und Diglyceriden von Speisefetts\u00e4ure ",
+        "classification": [
+            "Emulgator",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 481",
+        "name": "Natriumstearoyl-2-lactylat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 482",
+        "name": "Calciumstearoyl-2-lactylat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 483",
+        "name": "Stearyltartrat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 491",
+        "name": "Sorbitanmonostearat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 492",
+        "name": "Sorbitantristearat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 493",
+        "name": "Sorbitanmonolaurat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 494",
+        "name": "Sorbitanmonooleat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 495",
+        "name": "Sorbitanmonopalmitat",
+        "classification": [
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 500",
+        "name": "Natriumcarbonate",
+        "classification": [
+            "Backtriebmittel",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 501",
+        "name": "Kaliumcarbonate",
+        "classification": [
+            "Backtriebmittel",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 503",
+        "name": "Ammoniumcarbonate",
+        "classification": [
+            "Backtriebmittel",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 504",
+        "name": "Magnesiumcarbonate",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 507",
+        "name": "Salzs\u00e4ure",
+        "classification": [
+            "S\u00e4uerungsmittel",
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 508",
+        "name": "Kaliumchlorid",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 509",
+        "name": "Calciumchlorid",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 511",
+        "name": "Magnesiumchlorid",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 512",
+        "name": "Zinn-II-Chlorid",
+        "classification": [
+            "Antioxidationsmittel",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 513",
+        "name": "Schwefels\u00e4ure",
+        "classification": [
+            "S\u00e4ureregulator",
+            "S\u00e4uerungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 514",
+        "name": "Natriumsulfat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 516",
+        "name": "Calciumsulfat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 517",
+        "name": "Ammoniumsulfat",
+        "classification": [
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 520",
+        "name": "Aluminiumsulfat",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 521",
+        "name": "Aluminiumnatriumsulfat",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 522",
+        "name": "Aluminiumkaliumsulfat",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 523",
+        "name": "Aluminiumammoniumsulfat",
+        "classification": [
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 524",
+        "name": "Natriumhydroxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 525",
+        "name": "Kaliumhydroxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 526",
+        "name": "Calciumhydroxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 527",
+        "name": "Ammoniumhydroxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 515",
+        "name": "Kaliumsulfat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Festigungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 466",
+        "name": "Carboxymethylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 468",
+        "name": "Vernetzte Carboxymethylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 469",
+        "name": "Enzymatisch hydrolysierte Carboxymethylcellulose",
+        "classification": [
+            "Verdickungsmittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 470a",
+        "name": "Natrium-, Kalium-, Calciumsalze der Speisefetts\u00e4uren",
+        "classification": [
+            "Trennmittel",
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 470b",
+        "name": "Magnesiumsalze der Speisefetts\u00e4uren",
+        "classification": [
+            "Trennmittel",
+            "Emulgator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 528",
+        "name": "Magnesiumhydroxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 529",
+        "name": "Calciumoxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 530",
+        "name": "Magnesiumoxid",
+        "classification": [
+            "S\u00e4ureregulator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 535",
+        "name": "Natriumferrocyanid",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 536",
+        "name": "Kaliumferrocyanid",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 538",
+        "name": "Calciumferrocyanid",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 541",
+        "name": "Saures Natrium-aluminiumphosphat",
+        "classification": [
+            "Backtriebmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 551",
+        "name": "Siliciumdioxid",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 552",
+        "name": "Calciumsilicat",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 553a",
+        "name": "Magnesiumsilicate",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 553b",
+        "name": "Talkum",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 554",
+        "name": "Natriumaluminiumsilicat",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 555",
+        "name": "Kaliumaluminiumsilicat",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 570",
+        "name": "Speisefetts\u00e4uren",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 574",
+        "name": "Glucons\u00e4ure",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 575",
+        "name": "Glucono-Delta-Lacton",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 576",
+        "name": "Natriumgluconat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 577",
+        "name": "Kaliumgluconat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 578",
+        "name": "Calciumgluconat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 579",
+        "name": "Eisen-II-gluconat",
+        "classification": [
+            "S\u00e4ureregulator",
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 585",
+        "name": "Eisen-II-Lactat",
+        "classification": [
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 586",
+        "name": "4-Hexylresorcin",
+        "classification": [
+            "Stabilisator",
+            "Antioxidationsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 620",
+        "name": "Glutamins\u00e4ure",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 621",
+        "name": "Mononatriumglutamat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 622",
+        "name": "Monokaliumglutamat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 623",
+        "name": "Calciumdiglutamat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 624",
+        "name": "Monoammoniumglutamat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 625",
+        "name": "Magnesiumdiglutamat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 626",
+        "name": "Guanyls\u00e4ure",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 627",
+        "name": "Dinatriumguanylat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 628",
+        "name": "Dikaliumguanylat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 629",
+        "name": "Calciumguanylat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 630",
+        "name": "Inosins\u00e4ure",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 631",
+        "name": "Dinatriuminosinat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 632",
+        "name": "Dikaliuminosinat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 634",
+        "name": "Calcium-5\u2018-ribonucleotid",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 635",
+        "name": "Dinatrium-5\u2018-ribonucleotid",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 640",
+        "name": "Glycin und seine Natriumsalze",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 650",
+        "name": "Zinkacetat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 900",
+        "name": "Dimethylpolysiloxan",
+        "classification": [
+            "Schaumverh\u00fcter"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 901",
+        "name": "Bienenwachs weiss und gelb",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 1
+    },
+    {
+        "number": "E 902",
+        "name": "Candelillawachs",
+        "classification": [
+            "\u00dcberzugmittel",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 903",
+        "name": "Carnaubawachs",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 633",
+        "name": "Calciuminosinat",
+        "classification": [
+            "Geschmacksverst\u00e4rker"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 904",
+        "name": "Schellack",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 1
+    },
+    {
+        "number": "E 905",
+        "name": "Mikrokristallines Wachs",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 907",
+        "name": "Hydriertes Poly-1-decen",
+        "classification": [
+            "\u00dcberzugmittel",
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 912",
+        "name": "Montans\u00e4ureester",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 914",
+        "name": "Polyethylenwachsoxidate",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 920",
+        "name": "L-Cystein",
+        "classification": [
+            "Mehlbehandlungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 927b",
+        "name": "Carbamid",
+        "classification": [
+            "Stabilisator"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 943b",
+        "name": "Isobutan",
+        "classification": [
+            "Treibgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 944",
+        "name": "Propan",
+        "classification": [
+            "Treibgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 948",
+        "name": "Sauerstoff",
+        "classification": [
+            "Treibgas",
+            "Packgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 949",
+        "name": "Wasserstoff",
+        "classification": [
+            "Treibgas",
+            "Packgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 950",
+        "name": "Acesulfam-K",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 951",
+        "name": "Aspartam",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 952",
+        "name": "Cyclamat",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 953",
+        "name": "Isomalt",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 954",
+        "name": "Saccharin",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 955",
+        "name": "Sucralose",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 957",
+        "name": "Thaumatin",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 959",
+        "name": "Neohesperidin DC",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 960",
+        "name": "Steviolglycoside",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 961",
+        "name": "Neotam",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 962",
+        "name": "Aspartam-Acesulfam-Salz",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 964",
+        "name": "Polyglycitolsirup",
+        "classification": [
+            "S\u00fcssungsmittel",
+            "Feuchthaltemittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 965",
+        "name": "Maltit, Maltitsirup",
+        "classification": [
+            "S\u00fcssungsmittel",
+            "Feuchthaltemittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 966",
+        "name": "Lactit",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 967",
+        "name": "Xylit",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 968",
+        "name": "Erythrit",
+        "classification": [
+            "S\u00fcssungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 999",
+        "name": "Quillajaextrakt",
+        "classification": [
+            "Schaummittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 938",
+        "name": "Argon",
+        "classification": [
+            "Packgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 939",
+        "name": "Helium",
+        "classification": [
+            "Packgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 941",
+        "name": "Stickstoff",
+        "classification": [
+            "Packgas",
+            "Treibgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 942",
+        "name": "Distickstoffoxid",
+        "classification": [
+            "Treibgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 943a",
+        "name": "Butan",
+        "classification": [
+            "Treibgas"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1103",
+        "name": "Invertase",
+        "classification": [
+            "Feuchthaltemittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1105",
+        "name": "Lysozym",
+        "classification": [
+            "Konservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 1200",
+        "name": "Polydextrose",
+        "classification": [
+            "Feuchthaltemittel",
+            "F\u00fcllstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1201",
+        "name": "Polyvinylpyrrolidon",
+        "classification": [
+            "Stabilisator",
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1202",
+        "name": "Polyvinylpolypyrrolidon",
+        "classification": [
+            "Stabilisator",
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1203",
+        "name": "Polyvinylalkohol",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1420",
+        "name": "Acetylierte St\u00e4rke Verdickungsmittel",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1205",
+        "name": "Basisches Methacrylat-Copolymer",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1404",
+        "name": "Oxidierte St\u00e4rke",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1410",
+        "name": "Monost\u00e4rkephosphat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1412",
+        "name": "Dist\u00e4rkephosphat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1413",
+        "name": "Phosphatiertes Dist\u00e4rkephosphat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1414",
+        "name": "Acetyliertes Dist\u00e4rkephosphat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1420",
+        "name": "Acetylierte St\u00e4rke",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1422",
+        "name": "Acetyliertes Dist\u00e4rkeadipat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1440",
+        "name": "Hydroxypropylst\u00e4rke",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1442",
+        "name": "Hydroxypropyl-Dist\u00e4rkephosphat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1450",
+        "name": "St\u00e4rkenatriumoctenylsuccinat",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1451",
+        "name": "Acetylierte oxidierte St\u00e4rke",
+        "classification": [
+            "Verdickungsmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1452",
+        "name": "St\u00e4rkealuminiumoctenylsuccinat",
+        "classification": [
+            "Trennmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 1,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1505",
+        "name": "Triethylcitrat",
+        "classification": [
+            "Stabilisator",
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1517",
+        "name": "Glycerindiacetat",
+        "classification": [
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1518",
+        "name": "Glycerintriacetat",
+        "classification": [
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 2
+    },
+    {
+        "number": "E 1519",
+        "name": "Benzylalkohol",
+        "classification": [
+            "Tr\u00e4gerstoff",
+            "Koservierungsstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1520",
+        "name": "Propylenglykol",
+        "classification": [
+            "Tr\u00e4gerstoff"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1521",
+        "name": "Polyethylenglycole",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    },
+    {
+        "number": "E 1204",
+        "name": "Pullulan",
+        "classification": [
+            "\u00dcberzugmittel"
+        ],
+        "is_azo_dye": 0,
+        "is_causing_allergies": 0,
+        "is_animal_derived": 0
+    }
+]

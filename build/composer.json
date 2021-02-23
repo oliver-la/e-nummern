@@ -1,0 +1,12 @@
+{
+    "name": "oliver-la/e-numbers-generator",
+    "authors": [
+        {
+            "name": "oliver-la",
+            "email": "contact@oliver.la"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.16"
+    }
+}
