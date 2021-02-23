@@ -1,6 +1,6 @@
 [
     {
-        "number": "E 100",
+        "number": "100",
         "name": "Kurkumin",
         "classification": [
             "Farbstoff"
@@ -10,7 +10,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 101",
+        "number": "101",
         "name": "Riboflavine",
         "classification": [
             "Farbstoff"
@@ -20,7 +20,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 102",
+        "number": "102",
         "name": "Tartrazin",
         "classification": [
             "Farbstoff"
@@ -30,7 +30,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 104",
+        "number": "104",
         "name": "Chinolingelb",
         "classification": [
             "Farbstoff"
@@ -40,7 +40,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 110",
+        "number": "110",
         "name": "Gelborange S",
         "classification": [
             "Farbstoff"
@@ -50,7 +50,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 120",
+        "number": "120",
         "name": "Echtes Karmin",
         "classification": [
             "Farbstoff"
@@ -60,7 +60,7 @@
         "is_animal_derived": 1
     },
     {
-        "number": "E 122",
+        "number": "122",
         "name": "Azorubin",
         "classification": [
             "Farbstoff"
@@ -70,7 +70,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 123",
+        "number": "123",
         "name": "Amaranth",
         "classification": [
             "Farbstoff"
@@ -80,7 +80,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 124",
+        "number": "124",
         "name": "Cochenillerot A",
         "classification": [
             "Farbstoff"
@@ -90,7 +90,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 127",
+        "number": "127",
         "name": "Erythrosin",
         "classification": [
             "Farbstoff"
@@ -100,7 +100,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 129",
+        "number": "129",
         "name": "Allurarot AC",
         "classification": [
             "Farbstoff"
@@ -110,7 +110,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 131",
+        "number": "131",
         "name": "Patentblau V",
         "classification": [
             "Farbstoff"
@@ -120,7 +120,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 132",
+        "number": "132",
         "name": "Indigotin",
         "classification": [
             "Farbstoff"
@@ -130,7 +130,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 133",
+        "number": "133",
         "name": "Brillantblau FCF",
         "classification": [
             "Farbstoff"
@@ -140,7 +140,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 140",
+        "number": "140",
         "name": "Chlorophylle und Chlorophylline",
         "classification": [
             "Farbstoff"
@@ -150,7 +150,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 141",
+        "number": "141",
         "name": "Kupferkomplexe der Chlorophylle",
         "classification": [
             "Farbstoff"
@@ -160,7 +160,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 142",
+        "number": "142",
         "name": "Gr\u00fcn S",
         "classification": [
             "Farbstoff"
@@ -170,7 +170,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 151",
+        "number": "151",
         "name": "Brillantschwarz BN",
         "classification": [
             "Farbstoff"
@@ -180,7 +180,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 153",
+        "number": "153",
         "name": "Pflanzenkohle",
         "classification": [
             "Farbstoff"
@@ -190,7 +190,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 155",
+        "number": "155",
         "name": "Braun HT",
         "classification": [
             "Farbstoff"
@@ -200,7 +200,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 161b",
+        "number": "161b",
         "name": "Lutein",
         "classification": [
             "Farbstoff"
@@ -210,7 +210,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 162",
+        "number": "162",
         "name": "Beetenrot, Betanin",
         "classification": [
             "Farbstoff"
@@ -220,7 +220,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 163",
+        "number": "163",
         "name": "Anthocyane",
         "classification": [
             "Farbstoff"
@@ -230,7 +230,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 170",
+        "number": "170",
         "name": "Calciumcarbonate",
         "classification": [
             "Farbstoff",
@@ -242,7 +242,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 171",
+        "number": "171",
         "name": "Titandioxid",
         "classification": [
             "Farbstoff"
@@ -252,7 +252,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 172",
+        "number": "172",
         "name": "Eisenoxide und -hydroxide",
         "classification": [
             "Farbstoff"
@@ -262,7 +262,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 173",
+        "number": "173",
         "name": "Aluminium",
         "classification": [
             "Farbstoff"
@@ -272,7 +272,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 174",
+        "number": "174",
         "name": "Silber",
         "classification": [
             "Farbstoff"
@@ -282,7 +282,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 175",
+        "number": "175",
         "name": "Gold",
         "classification": [
             "Farbstoff"
@@ -292,7 +292,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 180",
+        "number": "180",
         "name": "Litholrubin BK",
         "classification": [
             "Farbstoff"
@@ -302,7 +302,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 200",
+        "number": "200",
         "name": "Sorbins\u00e4ure",
         "classification": [
             "Konservierungsstoff"
@@ -312,7 +312,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 202",
+        "number": "202",
         "name": "Kaliumsorbat",
         "classification": [
             "Konservierungsstoff"
@@ -322,7 +322,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 203",
+        "number": "203",
         "name": "Calciumsorbat",
         "classification": [
             "Konservierungsstoff"
@@ -332,7 +332,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 210",
+        "number": "210",
         "name": "Benzoes\u00e4ure",
         "classification": [
             "Konservierungsstoff"
@@ -342,7 +342,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 211",
+        "number": "211",
         "name": "Natriumbenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -352,7 +352,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 212",
+        "number": "212",
         "name": "Kaliumbenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -362,7 +362,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 213",
+        "number": "213",
         "name": "Calciumbenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -372,7 +372,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 214",
+        "number": "214",
         "name": "Ethyl-p-hydroxybenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -382,7 +382,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 215",
+        "number": "215",
         "name": "Natriumethyl-p-hydroxybenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -392,7 +392,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 218",
+        "number": "218",
         "name": "Methyl-p-hydroxybenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -402,7 +402,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 219",
+        "number": "219",
         "name": "Natriummethyl-p-hydroxybenzoat",
         "classification": [
             "Konservierungsstoff"
@@ -412,7 +412,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 220",
+        "number": "220",
         "name": "Schwefeldioxid",
         "classification": [
             "Konservierungsstoff",
@@ -423,7 +423,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 221",
+        "number": "221",
         "name": "Natriumsulfit",
         "classification": [
             "Konservierungsstoff",
@@ -434,7 +434,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 222",
+        "number": "222",
         "name": "Natriumhydrogensulfit",
         "classification": [
             "Konservierungsstoff",
@@ -445,7 +445,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 223",
+        "number": "223",
         "name": "Natriummetabisulfit",
         "classification": [
             "Konservierungsstoff",
@@ -456,7 +456,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 224",
+        "number": "224",
         "name": "Kaliummetabisulfit",
         "classification": [
             "Konservierungsstoff",
@@ -467,7 +467,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 226",
+        "number": "226",
         "name": "Calciumsulfit",
         "classification": [
             "Konservierungsstoff",
@@ -478,7 +478,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 227",
+        "number": "227",
         "name": "Calciumhydrogensulfit",
         "classification": [
             "Konservierungsstoff",
@@ -489,7 +489,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 228",
+        "number": "228",
         "name": "Kaliumhydrogensulfit",
         "classification": [
             "Konservierungsstoff",
@@ -500,7 +500,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 234",
+        "number": "234",
         "name": "Nisin",
         "classification": [
             "Konservierungsstoff"
@@ -510,7 +510,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 235",
+        "number": "235",
         "name": "Natamycin",
         "classification": [
             "Konservierungsstoff"
@@ -520,7 +520,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 239",
+        "number": "239",
         "name": "Hexamethylentetramin",
         "classification": [
             "Konservierungsstoff"
@@ -530,7 +530,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 242",
+        "number": "242",
         "name": "Dimethyldicarbonat",
         "classification": [
             "Konservierungsstoff"
@@ -540,7 +540,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 249",
+        "number": "249",
         "name": "Kaliumnitrit",
         "classification": [
             "Konservierungsstoff",
@@ -551,7 +551,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 250",
+        "number": "250",
         "name": "Natriumnitrit",
         "classification": [
             "Konservierungsstoff",
@@ -562,7 +562,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 251",
+        "number": "251",
         "name": "Natriumnitrat",
         "classification": [
             "Konservierungsstoff",
@@ -573,7 +573,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 252",
+        "number": "252",
         "name": "Kaliumnitrat",
         "classification": [
             "Konservierungsstoff",
@@ -584,7 +584,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 260",
+        "number": "260",
         "name": "Essigs\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -595,7 +595,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 282",
+        "number": "282",
         "name": "Calciumpropionat",
         "classification": [
             "Konservierungsstoff"
@@ -605,7 +605,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 283",
+        "number": "283",
         "name": "Kaliumpropionat",
         "classification": [
             "Konservierungsstoff"
@@ -615,7 +615,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 284",
+        "number": "284",
         "name": "Bors\u00e4ure",
         "classification": [
             "Konservierungsstoff"
@@ -625,7 +625,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 285",
+        "number": "285",
         "name": "Natriumtetraborat (Borax)",
         "classification": [
             "Konservierungsstoff"
@@ -635,7 +635,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 290",
+        "number": "290",
         "name": "Kohlendioxid",
         "classification": [
             "Packgas",
@@ -646,7 +646,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 296",
+        "number": "296",
         "name": "Apfels\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel"
@@ -656,7 +656,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 297",
+        "number": "297",
         "name": "Fumars\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel"
@@ -666,7 +666,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 300",
+        "number": "300",
         "name": "Ascorbins\u00e4ure",
         "classification": [
             "Antioxidationsmittel",
@@ -677,7 +677,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 301",
+        "number": "301",
         "name": "Natriumascorbat",
         "classification": [
             "Antioxidationsmittel",
@@ -688,7 +688,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 302",
+        "number": "302",
         "name": "Calciumascorbat",
         "classification": [
             "Antioxidationsmittel",
@@ -699,7 +699,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 304",
+        "number": "304",
         "name": "Fetts\u00e4ureester der Ascorbins\u00e4ure",
         "classification": [
             "Antioxidationsmittel"
@@ -709,7 +709,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 306",
+        "number": "306",
         "name": "Stark tocopherolhaltige Extrakte",
         "classification": [
             "Antioxidationsmittel"
@@ -719,7 +719,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 307",
+        "number": "307",
         "name": "Alpha-Tocopherol",
         "classification": [
             "Antioxidationsmittel"
@@ -729,7 +729,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 308",
+        "number": "308",
         "name": "Gamma-Tocopherol",
         "classification": [
             "Antioxidationsmittel"
@@ -739,7 +739,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 309",
+        "number": "309",
         "name": "Delta-Tocopherol",
         "classification": [
             "Antioxidationsmittel"
@@ -749,7 +749,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 310",
+        "number": "310",
         "name": "Propylgallat",
         "classification": [
             "Antioxidationsmittel"
@@ -759,7 +759,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 311",
+        "number": "311",
         "name": "Octylgallat",
         "classification": [
             "Antioxidationsmittel"
@@ -769,7 +769,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 312",
+        "number": "312",
         "name": "Dodecylgallat",
         "classification": [
             "Antioxidationsmittel"
@@ -779,7 +779,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 315",
+        "number": "315",
         "name": "Isoascorbins\u00e4ure",
         "classification": [
             "Antioxidationsmittel"
@@ -789,7 +789,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 316",
+        "number": "316",
         "name": "Natriumisoascorbat",
         "classification": [
             "Antioxidationsmittel"
@@ -799,7 +799,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 319",
+        "number": "319",
         "name": "Terti\u00e4r-Butylhydrochinon",
         "classification": [
             "Antioxidationsmittel"
@@ -809,7 +809,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 320",
+        "number": "320",
         "name": "Butylhydroxyanisol (BHA)",
         "classification": [
             "Antioxidationsmittel"
@@ -819,7 +819,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 321",
+        "number": "321",
         "name": "Butylhydroxytolen (BHT)",
         "classification": [
             "Antioxidationsmittel"
@@ -829,7 +829,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 322",
+        "number": "322",
         "name": "Lecithin",
         "classification": [
             "Emulgator",
@@ -840,7 +840,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 325",
+        "number": "325",
         "name": "Natriumlactat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -851,7 +851,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 326",
+        "number": "326",
         "name": "Kaliumlactat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -862,7 +862,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 327",
+        "number": "327",
         "name": "Calciumlactat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -873,7 +873,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 330",
+        "number": "330",
         "name": "Zitronens\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -884,7 +884,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 331",
+        "number": "331",
         "name": "Natriumcitrate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -895,7 +895,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 332",
+        "number": "332",
         "name": "Kaliumcitrate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -906,7 +906,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 333",
+        "number": "333",
         "name": "Calciumcitrate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -917,7 +917,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 334",
+        "number": "334",
         "name": "Weins\u00e4ure (L+)",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -928,7 +928,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 335",
+        "number": "335",
         "name": "Natriumtartrate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -939,7 +939,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 336",
+        "number": "336",
         "name": "Kaliumtartrate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -950,7 +950,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 337",
+        "number": "337",
         "name": "Natrium-Kaliumtartrat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -961,7 +961,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 338",
+        "number": "338",
         "name": "Phosphors\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -972,7 +972,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 339",
+        "number": "339",
         "name": "Natriumphosphate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -983,7 +983,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 340",
+        "number": "340",
         "name": "Kaliumhosphate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -994,7 +994,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 341",
+        "number": "341",
         "name": "Calciumphosphate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1005,7 +1005,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 343",
+        "number": "343",
         "name": "Magnesiumphosphate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1016,7 +1016,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 350",
+        "number": "350",
         "name": "Natriummalate",
         "classification": [
             "S\u00e4ureregulator"
@@ -1026,7 +1026,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 351",
+        "number": "351",
         "name": "Kaliummalat",
         "classification": [
             "S\u00e4uerungsmittel"
@@ -1036,7 +1036,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 352",
+        "number": "352",
         "name": "Calciummalate",
         "classification": [
             "S\u00e4uerungsmittel"
@@ -1046,7 +1046,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 261",
+        "number": "261",
         "name": "Kaliumacetate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1057,7 +1057,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 262",
+        "number": "262",
         "name": "Natriumacetate",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1068,7 +1068,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 263",
+        "number": "263",
         "name": "Calciumacetat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1079,7 +1079,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 270",
+        "number": "270",
         "name": "Milchs\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel"
@@ -1089,7 +1089,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 280",
+        "number": "280",
         "name": "Propions\u00e4ure",
         "classification": [
             "Konservierungsstoff"
@@ -1099,7 +1099,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 281",
+        "number": "281",
         "name": "Natriumpropionat",
         "classification": [
             "Konservierungsstoff"
@@ -1109,7 +1109,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 353",
+        "number": "353",
         "name": "Metaweins\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1120,7 +1120,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 355",
+        "number": "355",
         "name": "Adipins\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1131,7 +1131,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 356",
+        "number": "356",
         "name": "Natriumadipat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1142,7 +1142,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 357",
+        "number": "357",
         "name": "Kaliumadipat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1153,7 +1153,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 363",
+        "number": "363",
         "name": "Bernsteins\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel"
@@ -1163,7 +1163,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 380",
+        "number": "380",
         "name": "Triammoniumcitrat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1174,7 +1174,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 385",
+        "number": "385",
         "name": "Calcium-Dinatrium-EDTA",
         "classification": [
             "Antioxidationsmittel",
@@ -1185,7 +1185,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 392",
+        "number": "392",
         "name": "Extrakte aus Rosmarin",
         "classification": [
             "Antioxidationsmittel"
@@ -1195,7 +1195,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 400",
+        "number": "400",
         "name": "Algins\u00e4ure",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1205,7 +1205,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 401",
+        "number": "401",
         "name": "Natriumalginat",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1215,7 +1215,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 402",
+        "number": "402",
         "name": "Kaliumalginat",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1225,7 +1225,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 403",
+        "number": "403",
         "name": "Ammoniumalginat",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1235,7 +1235,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 404",
+        "number": "404",
         "name": "Calciumalginat",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1245,7 +1245,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 405",
+        "number": "405",
         "name": "Propylenglycolalginat",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1255,7 +1255,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 406",
+        "number": "406",
         "name": "Agar-Agar",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1265,7 +1265,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 407",
+        "number": "407",
         "name": "Carrageen",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1275,7 +1275,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 407a",
+        "number": "407a",
         "name": "Verarbeitete Eucheuma-Algen",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1285,7 +1285,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 410",
+        "number": "410",
         "name": "Johannisbrotkernmehl",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1295,7 +1295,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 412",
+        "number": "412",
         "name": "Guarkernmehl",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1305,7 +1305,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 413",
+        "number": "413",
         "name": "Traganth",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1315,7 +1315,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 414",
+        "number": "414",
         "name": "Gummi arabicum",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1325,7 +1325,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 415",
+        "number": "415",
         "name": "Xanthan",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1335,7 +1335,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 416",
+        "number": "416",
         "name": "Karayagummi",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1345,7 +1345,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 417",
+        "number": "417",
         "name": "Tarakernmehl",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1355,7 +1355,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 418",
+        "number": "418",
         "name": "Gellan",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1365,7 +1365,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 420",
+        "number": "420",
         "name": "Sorbit",
         "classification": [
             "S\u00fcssungsmittel",
@@ -1376,7 +1376,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 421",
+        "number": "421",
         "name": "Mannit",
         "classification": [
             "S\u00fcssungsmittel"
@@ -1386,7 +1386,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 422",
+        "number": "422",
         "name": "Glycerin",
         "classification": [
             "Feuchthaltemittel"
@@ -1396,7 +1396,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 425",
+        "number": "425",
         "name": "Konjak",
         "classification": [
             "Verdickungsmittel"
@@ -1406,7 +1406,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 426",
+        "number": "426",
         "name": "Sojabohnen-Polyose",
         "classification": [
             "Emulgator",
@@ -1417,7 +1417,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 427",
+        "number": "427",
         "name": "Cassia-Gummi",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1427,7 +1427,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 431",
+        "number": "431",
         "name": "Polyoxyethylen(40)stearat",
         "classification": [
             "Emulgator",
@@ -1438,7 +1438,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 432",
+        "number": "432",
         "name": "Polysorbat 20",
         "classification": [
             "Emulgator",
@@ -1449,7 +1449,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 433",
+        "number": "433",
         "name": "Polysorbat 80",
         "classification": [
             "Emulgator",
@@ -1460,7 +1460,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 434",
+        "number": "434",
         "name": "Polysorbat 40",
         "classification": [
             "Emulgator",
@@ -1471,7 +1471,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 435",
+        "number": "435",
         "name": "Polysorbat 60",
         "classification": [
             "Emulgator",
@@ -1482,7 +1482,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 436",
+        "number": "436",
         "name": "Polysorbat 65",
         "classification": [
             "Emulgator",
@@ -1493,7 +1493,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 440",
+        "number": "440",
         "name": "Pektine",
         "classification": [
             "Gelier- und Verdickungsmittel"
@@ -1503,7 +1503,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 442",
+        "number": "442",
         "name": "Ammoniumphosphatide",
         "classification": [
             "Stabilisator",
@@ -1514,7 +1514,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 444",
+        "number": "444",
         "name": "Saccharoseacetatisobutyrat",
         "classification": [
             "Stabilisator"
@@ -1524,7 +1524,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 445",
+        "number": "445",
         "name": "Glycerinester aus Wurzelharz",
         "classification": [
             "Stabilisator"
@@ -1534,7 +1534,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 450",
+        "number": "450",
         "name": "Diphosphate",
         "classification": [
             "Stabilisator",
@@ -1545,7 +1545,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 354",
+        "number": "354",
         "name": "Calciumtartrat",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1556,7 +1556,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 451",
+        "number": "451",
         "name": "Triphosphate",
         "classification": [
             "Stabilisator",
@@ -1567,7 +1567,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 452",
+        "number": "452",
         "name": "Polyphosphate",
         "classification": [
             "Stabilisator",
@@ -1578,7 +1578,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 459",
+        "number": "459",
         "name": "Beta-Cyclodextrin",
         "classification": [
             "F\u00fcllstoff"
@@ -1588,7 +1588,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 460",
+        "number": "460",
         "name": "Cellulose",
         "classification": [
             "Verdickungsmittel",
@@ -1599,7 +1599,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 461",
+        "number": "461",
         "name": "Methylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -1610,7 +1610,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 463",
+        "number": "463",
         "name": "Hydroxypropylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -1621,7 +1621,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 462",
+        "number": "462",
         "name": "Ethylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -1632,7 +1632,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 464",
+        "number": "464",
         "name": "Hydroxypropylmethylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -1643,7 +1643,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 465",
+        "number": "465",
         "name": "Ethylmethylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -1654,7 +1654,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 471",
+        "number": "471",
         "name": "Mono- und Diglyceride von Speisefetts\u00e4uren",
         "classification": [
             "Emulgator"
@@ -1664,7 +1664,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 473",
+        "number": "473",
         "name": "Zuckerester von Speisefetts\u00e4uren",
         "classification": [
             "Emulgator"
@@ -1674,7 +1674,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 474",
+        "number": "474",
         "name": "Zuckerglyceride",
         "classification": [
             "Emulgator"
@@ -1684,7 +1684,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 475",
+        "number": "475",
         "name": "Polyglycerinester von Speisefetts\u00e4uren",
         "classification": [
             "Emulgator"
@@ -1694,7 +1694,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 476",
+        "number": "476",
         "name": "Polyglycerin-Polyricinoleat",
         "classification": [
             "Emulgator"
@@ -1704,7 +1704,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 477",
+        "number": "477",
         "name": "Propylenglycolester von Speisefetts\u00e4uren",
         "classification": [
             "Emulgator"
@@ -1714,7 +1714,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 479b",
+        "number": "479b",
         "name": "Thermooxidiertes Soja\u00f6l mit Mono- und Diglyceriden von Speisefetts\u00e4ure ",
         "classification": [
             "Emulgator",
@@ -1725,7 +1725,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 481",
+        "number": "481",
         "name": "Natriumstearoyl-2-lactylat",
         "classification": [
             "Emulgator"
@@ -1735,7 +1735,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 482",
+        "number": "482",
         "name": "Calciumstearoyl-2-lactylat",
         "classification": [
             "Emulgator"
@@ -1745,7 +1745,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 483",
+        "number": "483",
         "name": "Stearyltartrat",
         "classification": [
             "Emulgator"
@@ -1755,7 +1755,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 491",
+        "number": "491",
         "name": "Sorbitanmonostearat",
         "classification": [
             "Emulgator"
@@ -1765,7 +1765,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 492",
+        "number": "492",
         "name": "Sorbitantristearat",
         "classification": [
             "Emulgator"
@@ -1775,7 +1775,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 493",
+        "number": "493",
         "name": "Sorbitanmonolaurat",
         "classification": [
             "Emulgator"
@@ -1785,7 +1785,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 494",
+        "number": "494",
         "name": "Sorbitanmonooleat",
         "classification": [
             "Emulgator"
@@ -1795,7 +1795,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 495",
+        "number": "495",
         "name": "Sorbitanmonopalmitat",
         "classification": [
             "Emulgator"
@@ -1805,7 +1805,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 500",
+        "number": "500",
         "name": "Natriumcarbonate",
         "classification": [
             "Backtriebmittel",
@@ -1816,7 +1816,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 501",
+        "number": "501",
         "name": "Kaliumcarbonate",
         "classification": [
             "Backtriebmittel",
@@ -1827,7 +1827,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 503",
+        "number": "503",
         "name": "Ammoniumcarbonate",
         "classification": [
             "Backtriebmittel",
@@ -1838,7 +1838,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 504",
+        "number": "504",
         "name": "Magnesiumcarbonate",
         "classification": [
             "Trennmittel"
@@ -1848,7 +1848,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 507",
+        "number": "507",
         "name": "Salzs\u00e4ure",
         "classification": [
             "S\u00e4uerungsmittel",
@@ -1859,7 +1859,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 508",
+        "number": "508",
         "name": "Kaliumchlorid",
         "classification": [
             "Festigungsmittel"
@@ -1869,7 +1869,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 509",
+        "number": "509",
         "name": "Calciumchlorid",
         "classification": [
             "Festigungsmittel"
@@ -1879,7 +1879,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 511",
+        "number": "511",
         "name": "Magnesiumchlorid",
         "classification": [
             "Festigungsmittel"
@@ -1889,7 +1889,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 512",
+        "number": "512",
         "name": "Zinn-II-Chlorid",
         "classification": [
             "Antioxidationsmittel",
@@ -1900,7 +1900,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 513",
+        "number": "513",
         "name": "Schwefels\u00e4ure",
         "classification": [
             "S\u00e4ureregulator",
@@ -1911,7 +1911,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 514",
+        "number": "514",
         "name": "Natriumsulfat",
         "classification": [
             "S\u00e4ureregulator",
@@ -1922,7 +1922,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 516",
+        "number": "516",
         "name": "Calciumsulfat",
         "classification": [
             "S\u00e4ureregulator",
@@ -1933,7 +1933,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 517",
+        "number": "517",
         "name": "Ammoniumsulfat",
         "classification": [
             "Tr\u00e4gerstoff"
@@ -1943,7 +1943,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 520",
+        "number": "520",
         "name": "Aluminiumsulfat",
         "classification": [
             "Festigungsmittel"
@@ -1953,7 +1953,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 521",
+        "number": "521",
         "name": "Aluminiumnatriumsulfat",
         "classification": [
             "Festigungsmittel"
@@ -1963,7 +1963,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 522",
+        "number": "522",
         "name": "Aluminiumkaliumsulfat",
         "classification": [
             "Festigungsmittel"
@@ -1973,7 +1973,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 523",
+        "number": "523",
         "name": "Aluminiumammoniumsulfat",
         "classification": [
             "Festigungsmittel"
@@ -1983,7 +1983,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 524",
+        "number": "524",
         "name": "Natriumhydroxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -1993,7 +1993,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 525",
+        "number": "525",
         "name": "Kaliumhydroxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -2003,7 +2003,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 526",
+        "number": "526",
         "name": "Calciumhydroxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -2013,7 +2013,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 527",
+        "number": "527",
         "name": "Ammoniumhydroxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -2023,7 +2023,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 515",
+        "number": "515",
         "name": "Kaliumsulfat",
         "classification": [
             "S\u00e4ureregulator",
@@ -2034,7 +2034,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 466",
+        "number": "466",
         "name": "Carboxymethylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -2045,7 +2045,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 468",
+        "number": "468",
         "name": "Vernetzte Carboxymethylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -2056,7 +2056,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 469",
+        "number": "469",
         "name": "Enzymatisch hydrolysierte Carboxymethylcellulose",
         "classification": [
             "Verdickungsmittel",
@@ -2067,7 +2067,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 470a",
+        "number": "470a",
         "name": "Natrium-, Kalium-, Calciumsalze der Speisefetts\u00e4uren",
         "classification": [
             "Trennmittel",
@@ -2078,7 +2078,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 470b",
+        "number": "470b",
         "name": "Magnesiumsalze der Speisefetts\u00e4uren",
         "classification": [
             "Trennmittel",
@@ -2089,7 +2089,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 528",
+        "number": "528",
         "name": "Magnesiumhydroxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -2099,7 +2099,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 529",
+        "number": "529",
         "name": "Calciumoxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -2109,7 +2109,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 530",
+        "number": "530",
         "name": "Magnesiumoxid",
         "classification": [
             "S\u00e4ureregulator"
@@ -2119,7 +2119,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 535",
+        "number": "535",
         "name": "Natriumferrocyanid",
         "classification": [
             "Trennmittel"
@@ -2129,7 +2129,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 536",
+        "number": "536",
         "name": "Kaliumferrocyanid",
         "classification": [
             "Trennmittel"
@@ -2139,7 +2139,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 538",
+        "number": "538",
         "name": "Calciumferrocyanid",
         "classification": [
             "Trennmittel"
@@ -2149,7 +2149,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 541",
+        "number": "541",
         "name": "Saures Natrium-aluminiumphosphat",
         "classification": [
             "Backtriebmittel"
@@ -2159,7 +2159,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 551",
+        "number": "551",
         "name": "Siliciumdioxid",
         "classification": [
             "Trennmittel"
@@ -2169,7 +2169,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 552",
+        "number": "552",
         "name": "Calciumsilicat",
         "classification": [
             "Trennmittel"
@@ -2179,7 +2179,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 553a",
+        "number": "553a",
         "name": "Magnesiumsilicate",
         "classification": [
             "Trennmittel"
@@ -2189,7 +2189,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 553b",
+        "number": "553b",
         "name": "Talkum",
         "classification": [
             "Trennmittel"
@@ -2199,7 +2199,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 554",
+        "number": "554",
         "name": "Natriumaluminiumsilicat",
         "classification": [
             "Trennmittel"
@@ -2209,7 +2209,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 555",
+        "number": "555",
         "name": "Kaliumaluminiumsilicat",
         "classification": [
             "Trennmittel"
@@ -2219,7 +2219,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 570",
+        "number": "570",
         "name": "Speisefetts\u00e4uren",
         "classification": [
             "Trennmittel"
@@ -2229,7 +2229,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 574",
+        "number": "574",
         "name": "Glucons\u00e4ure",
         "classification": [
             "S\u00e4ureregulator",
@@ -2240,7 +2240,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 575",
+        "number": "575",
         "name": "Glucono-Delta-Lacton",
         "classification": [
             "S\u00e4ureregulator",
@@ -2251,7 +2251,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 576",
+        "number": "576",
         "name": "Natriumgluconat",
         "classification": [
             "S\u00e4ureregulator",
@@ -2262,7 +2262,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 577",
+        "number": "577",
         "name": "Kaliumgluconat",
         "classification": [
             "S\u00e4ureregulator",
@@ -2273,7 +2273,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 578",
+        "number": "578",
         "name": "Calciumgluconat",
         "classification": [
             "S\u00e4ureregulator",
@@ -2284,7 +2284,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 579",
+        "number": "579",
         "name": "Eisen-II-gluconat",
         "classification": [
             "S\u00e4ureregulator",
@@ -2295,7 +2295,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 585",
+        "number": "585",
         "name": "Eisen-II-Lactat",
         "classification": [
             "Stabilisator"
@@ -2305,7 +2305,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 586",
+        "number": "586",
         "name": "4-Hexylresorcin",
         "classification": [
             "Stabilisator",
@@ -2316,7 +2316,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 620",
+        "number": "620",
         "name": "Glutamins\u00e4ure",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2326,7 +2326,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 621",
+        "number": "621",
         "name": "Mononatriumglutamat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2336,7 +2336,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 622",
+        "number": "622",
         "name": "Monokaliumglutamat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2346,7 +2346,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 623",
+        "number": "623",
         "name": "Calciumdiglutamat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2356,7 +2356,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 624",
+        "number": "624",
         "name": "Monoammoniumglutamat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2366,7 +2366,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 625",
+        "number": "625",
         "name": "Magnesiumdiglutamat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2376,7 +2376,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 626",
+        "number": "626",
         "name": "Guanyls\u00e4ure",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2386,7 +2386,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 627",
+        "number": "627",
         "name": "Dinatriumguanylat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2396,7 +2396,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 628",
+        "number": "628",
         "name": "Dikaliumguanylat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2406,7 +2406,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 629",
+        "number": "629",
         "name": "Calciumguanylat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2416,7 +2416,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 630",
+        "number": "630",
         "name": "Inosins\u00e4ure",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2426,7 +2426,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 631",
+        "number": "631",
         "name": "Dinatriuminosinat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2436,7 +2436,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 632",
+        "number": "632",
         "name": "Dikaliuminosinat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2446,7 +2446,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 634",
+        "number": "634",
         "name": "Calcium-5\u2018-ribonucleotid",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2456,7 +2456,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 635",
+        "number": "635",
         "name": "Dinatrium-5\u2018-ribonucleotid",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2466,7 +2466,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 640",
+        "number": "640",
         "name": "Glycin und seine Natriumsalze",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2476,7 +2476,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 650",
+        "number": "650",
         "name": "Zinkacetat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2486,7 +2486,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 900",
+        "number": "900",
         "name": "Dimethylpolysiloxan",
         "classification": [
             "Schaumverh\u00fcter"
@@ -2496,7 +2496,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 901",
+        "number": "901",
         "name": "Bienenwachs weiss und gelb",
         "classification": [
             "\u00dcberzugmittel"
@@ -2506,7 +2506,7 @@
         "is_animal_derived": 1
     },
     {
-        "number": "E 902",
+        "number": "902",
         "name": "Candelillawachs",
         "classification": [
             "\u00dcberzugmittel",
@@ -2517,7 +2517,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 903",
+        "number": "903",
         "name": "Carnaubawachs",
         "classification": [
             "\u00dcberzugmittel"
@@ -2527,7 +2527,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 633",
+        "number": "633",
         "name": "Calciuminosinat",
         "classification": [
             "Geschmacksverst\u00e4rker"
@@ -2537,7 +2537,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 904",
+        "number": "904",
         "name": "Schellack",
         "classification": [
             "\u00dcberzugmittel"
@@ -2547,7 +2547,7 @@
         "is_animal_derived": 1
     },
     {
-        "number": "E 905",
+        "number": "905",
         "name": "Mikrokristallines Wachs",
         "classification": [
             "\u00dcberzugmittel"
@@ -2557,7 +2557,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 907",
+        "number": "907",
         "name": "Hydriertes Poly-1-decen",
         "classification": [
             "\u00dcberzugmittel",
@@ -2568,7 +2568,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 912",
+        "number": "912",
         "name": "Montans\u00e4ureester",
         "classification": [
             "\u00dcberzugmittel"
@@ -2578,7 +2578,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 914",
+        "number": "914",
         "name": "Polyethylenwachsoxidate",
         "classification": [
             "\u00dcberzugmittel"
@@ -2588,7 +2588,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 920",
+        "number": "920",
         "name": "L-Cystein",
         "classification": [
             "Mehlbehandlungsmittel"
@@ -2598,7 +2598,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 927b",
+        "number": "927b",
         "name": "Carbamid",
         "classification": [
             "Stabilisator"
@@ -2608,7 +2608,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 943b",
+        "number": "943b",
         "name": "Isobutan",
         "classification": [
             "Treibgas"
@@ -2618,7 +2618,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 944",
+        "number": "944",
         "name": "Propan",
         "classification": [
             "Treibgas"
@@ -2628,7 +2628,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 948",
+        "number": "948",
         "name": "Sauerstoff",
         "classification": [
             "Treibgas",
@@ -2639,7 +2639,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 949",
+        "number": "949",
         "name": "Wasserstoff",
         "classification": [
             "Treibgas",
@@ -2650,7 +2650,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 950",
+        "number": "950",
         "name": "Acesulfam-K",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2660,7 +2660,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 951",
+        "number": "951",
         "name": "Aspartam",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2670,7 +2670,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 952",
+        "number": "952",
         "name": "Cyclamat",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2680,7 +2680,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 953",
+        "number": "953",
         "name": "Isomalt",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2690,7 +2690,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 954",
+        "number": "954",
         "name": "Saccharin",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2700,7 +2700,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 955",
+        "number": "955",
         "name": "Sucralose",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2710,7 +2710,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 957",
+        "number": "957",
         "name": "Thaumatin",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2720,7 +2720,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 959",
+        "number": "959",
         "name": "Neohesperidin DC",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2730,7 +2730,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 960",
+        "number": "960",
         "name": "Steviolglycoside",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2740,7 +2740,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 961",
+        "number": "961",
         "name": "Neotam",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2750,7 +2750,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 962",
+        "number": "962",
         "name": "Aspartam-Acesulfam-Salz",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2760,7 +2760,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 964",
+        "number": "964",
         "name": "Polyglycitolsirup",
         "classification": [
             "S\u00fcssungsmittel",
@@ -2771,7 +2771,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 965",
+        "number": "965",
         "name": "Maltit, Maltitsirup",
         "classification": [
             "S\u00fcssungsmittel",
@@ -2782,7 +2782,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 966",
+        "number": "966",
         "name": "Lactit",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2792,7 +2792,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 967",
+        "number": "967",
         "name": "Xylit",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2802,7 +2802,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 968",
+        "number": "968",
         "name": "Erythrit",
         "classification": [
             "S\u00fcssungsmittel"
@@ -2812,7 +2812,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 999",
+        "number": "999",
         "name": "Quillajaextrakt",
         "classification": [
             "Schaummittel"
@@ -2822,7 +2822,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 938",
+        "number": "938",
         "name": "Argon",
         "classification": [
             "Packgas"
@@ -2832,7 +2832,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 939",
+        "number": "939",
         "name": "Helium",
         "classification": [
             "Packgas"
@@ -2842,7 +2842,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 941",
+        "number": "941",
         "name": "Stickstoff",
         "classification": [
             "Packgas",
@@ -2853,7 +2853,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 942",
+        "number": "942",
         "name": "Distickstoffoxid",
         "classification": [
             "Treibgas"
@@ -2863,7 +2863,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 943a",
+        "number": "943a",
         "name": "Butan",
         "classification": [
             "Treibgas"
@@ -2873,7 +2873,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1103",
+        "number": "1103",
         "name": "Invertase",
         "classification": [
             "Feuchthaltemittel"
@@ -2883,7 +2883,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1105",
+        "number": "1105",
         "name": "Lysozym",
         "classification": [
             "Konservierungsstoff"
@@ -2893,7 +2893,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 1200",
+        "number": "1200",
         "name": "Polydextrose",
         "classification": [
             "Feuchthaltemittel",
@@ -2904,7 +2904,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1201",
+        "number": "1201",
         "name": "Polyvinylpyrrolidon",
         "classification": [
             "Stabilisator",
@@ -2915,7 +2915,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1202",
+        "number": "1202",
         "name": "Polyvinylpolypyrrolidon",
         "classification": [
             "Stabilisator",
@@ -2926,7 +2926,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1203",
+        "number": "1203",
         "name": "Polyvinylalkohol",
         "classification": [
             "\u00dcberzugmittel"
@@ -2936,7 +2936,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1420",
+        "number": "1420",
         "name": "Acetylierte St\u00e4rke Verdickungsmittel",
         "classification": [
             "Verdickungsmittel"
@@ -2946,7 +2946,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1205",
+        "number": "1205",
         "name": "Basisches Methacrylat-Copolymer",
         "classification": [
             "\u00dcberzugmittel"
@@ -2956,7 +2956,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1404",
+        "number": "1404",
         "name": "Oxidierte St\u00e4rke",
         "classification": [
             "Verdickungsmittel"
@@ -2966,7 +2966,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1410",
+        "number": "1410",
         "name": "Monost\u00e4rkephosphat",
         "classification": [
             "Verdickungsmittel"
@@ -2976,7 +2976,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1412",
+        "number": "1412",
         "name": "Dist\u00e4rkephosphat",
         "classification": [
             "Verdickungsmittel"
@@ -2986,7 +2986,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1413",
+        "number": "1413",
         "name": "Phosphatiertes Dist\u00e4rkephosphat",
         "classification": [
             "Verdickungsmittel"
@@ -2996,7 +2996,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1414",
+        "number": "1414",
         "name": "Acetyliertes Dist\u00e4rkephosphat",
         "classification": [
             "Verdickungsmittel"
@@ -3006,7 +3006,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1420",
+        "number": "1420",
         "name": "Acetylierte St\u00e4rke",
         "classification": [
             "Verdickungsmittel"
@@ -3016,7 +3016,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1422",
+        "number": "1422",
         "name": "Acetyliertes Dist\u00e4rkeadipat",
         "classification": [
             "Verdickungsmittel"
@@ -3026,7 +3026,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1440",
+        "number": "1440",
         "name": "Hydroxypropylst\u00e4rke",
         "classification": [
             "Verdickungsmittel"
@@ -3036,7 +3036,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1442",
+        "number": "1442",
         "name": "Hydroxypropyl-Dist\u00e4rkephosphat",
         "classification": [
             "Verdickungsmittel"
@@ -3046,7 +3046,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1450",
+        "number": "1450",
         "name": "St\u00e4rkenatriumoctenylsuccinat",
         "classification": [
             "Verdickungsmittel"
@@ -3056,7 +3056,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1451",
+        "number": "1451",
         "name": "Acetylierte oxidierte St\u00e4rke",
         "classification": [
             "Verdickungsmittel"
@@ -3066,7 +3066,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1452",
+        "number": "1452",
         "name": "St\u00e4rkealuminiumoctenylsuccinat",
         "classification": [
             "Trennmittel"
@@ -3076,7 +3076,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1505",
+        "number": "1505",
         "name": "Triethylcitrat",
         "classification": [
             "Stabilisator",
@@ -3087,7 +3087,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1517",
+        "number": "1517",
         "name": "Glycerindiacetat",
         "classification": [
             "Tr\u00e4gerstoff"
@@ -3097,7 +3097,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1518",
+        "number": "1518",
         "name": "Glycerintriacetat",
         "classification": [
             "Tr\u00e4gerstoff"
@@ -3107,7 +3107,7 @@
         "is_animal_derived": 2
     },
     {
-        "number": "E 1519",
+        "number": "1519",
         "name": "Benzylalkohol",
         "classification": [
             "Tr\u00e4gerstoff",
@@ -3118,7 +3118,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1520",
+        "number": "1520",
         "name": "Propylenglykol",
         "classification": [
             "Tr\u00e4gerstoff"
@@ -3128,7 +3128,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1521",
+        "number": "1521",
         "name": "Polyethylenglycole",
         "classification": [
             "\u00dcberzugmittel"
@@ -3138,7 +3138,7 @@
         "is_animal_derived": 0
     },
     {
-        "number": "E 1204",
+        "number": "1204",
         "name": "Pullulan",
         "classification": [
             "\u00dcberzugmittel"

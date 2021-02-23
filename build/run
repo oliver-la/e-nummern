@@ -37,7 +37,7 @@ foreach ($rows as $row) {
     }
 
     $buffer[] = [
-        'number' => $row[0],
+        'number' => trim(str_replace('E ', '', $row[0])),
         'name' => $row[1],
         'classification' => $classification_array,
         'is_azo_dye' => intval($row[3]),
